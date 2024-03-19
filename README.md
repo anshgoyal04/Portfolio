@@ -1,1 +1,1 @@
-# Portfolio
+A personal portfolio website is an essential tool for showcasing my skills, experiences, and projects to potential employers, clients, and collaborators. This project serves as a digital resume, providing visitors with an overview of who am I, what I do, and what I have accomplished.
